@@ -16,11 +16,18 @@ I'm a passionate Backend Developer and Web Scraper based in Egypt. I love coding
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amr-elwetaidy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/Amr-elwetaidy/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Amr-elwetaidy&show_icons=true&theme=radical&include_all_commits=true" />
+</a>
+<a href="https://github.com/Amr-elwetaidy/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-elwetaidy&card_width=320&exclude_repo=Investigating-TMDP-Movies-Dataset,Analyze_A-B_Test_Resultsa" />
+</a>
+<!-- 
+## 📈 GitHub Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amr-elwetaidy&repo=Binance-Crypto-Trade-Stream)](https://github.com/Amr-elwetaidy/Binance-Crypto-Trade-Stream)
 ## 🛠️ Projects
-
 - To be added.
+-->
 
 ## 📫 Let's Connect
 
