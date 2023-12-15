@@ -20,7 +20,7 @@ I'm a passionate Backend Developer and Web Scraper based in Egypt. I love coding
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Amr-elwetaidy&show_icons=true&theme=radical&include_all_commits=true&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-elwetaidy&exclude_repo=Investigating-TMDP-Movies-Dataset,Analyze_A-B_Test_Resultsa" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-elwetaidy&exclude_repo=Investigating-TMDP-Movies-Dataset,Analyze_A-B_Test_Results" />
 </a>
 <!-- 
 ## 📈 GitHub Top Repositories
