@@ -16,11 +16,11 @@ I'm a passionate Backend Developer and Web Scraper based in Egypt. I love coding
 
 ## 📈 GitHub Stats
 
-![Amr Elwetaidy's Github Stats](https://github-readme-stats-amr-elwetaidys-projects.vercel.app/api?username=Amr-elwetaidy&show_icons=true&theme=radical&include_all_commits=true)
+![Amr Elwetaidy's Github Stats](https://github-readme-stats-amr-elwetaidys-projects.vercel.app/api?username=Amr-elwetaidy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## 📈 Languages
 
-![Top Languages](https://github-readme-stats-amr-elwetaidys-projects.vercel.app/api/top-langs/?username=Amr-elwetaidy&exclude_repo=Investigating-TMDP-Movies-Dataset,Analyze_A-B_Test_Results&card_width=470)
+![Top Languages](https://github-readme-stats-amr-elwetaidys-projects.vercel.app/api/top-langs/?username=Amr-elwetaidy&exclude_repo=Investigating-TMDP-Movies-Dataset,Analyze_A-B_Test_Results&card_width=470&count_private=true)
 <!-- 
 ## 📈 GitHub Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amr-elwetaidy&repo=Binance-Crypto-Trade-Stream)](https://github.com/Amr-elwetaidy/Binance-Crypto-Trade-Stream)
