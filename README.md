@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amr Elwetaidy</h1>
 <h3 align="center">I'm a passionate Backend Developer and Web Scraper based in Egypt. I love coding, and I'm always eager to learn new things. Currently, I work as a part-time web developer at Labmedia, and I freelance on platforms like Freelancer, delivering high-quality projects for clients worldwide.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amr-elwetaidy&label=Profile%20views&color=0e75b6&style=flat" alt="amr-elwetaidy" /> </p>
+
 ---
 
 <p align="left">
@@ -18,6 +20,8 @@
 - **Languages:** Python, JavaScript
 - **Frameworks & Libraries:** Django, Beautiful Soup, Selenium
 - **Tools & Technologies:** Git, Docker, RESTful API design, Websockets
+
+I’m currently working on [Labmedia Wep App](https://spy.labmidia.com.br/)
 -->
 
 
@@ -26,6 +30,11 @@
 
 <!--
 ## 📫 Let's Connect
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amr-elwetaidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr-elwetaidy" height="30" width="40" /></a>
+</p>
 
 - LinkedIn: [Amr-Elwetaidy](https://www.linkedin.com/in/amr-elwetaidy/)
 - Twitter: [Amr_Elwetaidy](https://twitter.com/Amr_Elwetaidy)
