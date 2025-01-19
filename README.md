@@ -67,7 +67,7 @@ Feel free to reach out to me for collaboration or to discuss any cool projects y
 
 ![Top Languages](https://github-readme-stats-amr-elwetaidys-projects.vercel.app/api/top-langs/?username=Amr-elwetaidy&count_private=true&theme=radical&card_width=470)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Amr-elwetaidy&theme=radical&exclude_days=Fri%2CSat&card_width=470&card_height=)
+![GitHub Streak](https://streak-stats.demolab.com?user=Amr-elwetaidy&theme=radical&exclude_days=Fri%2CSat&card_width=470&card_height=&short_numbers=ture)
 
 ## 💬 Let's Connect
 
