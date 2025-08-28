@@ -53,9 +53,9 @@ Feel free to reach out to me for collaboration or to discuss any cool projects y
 
 ## 📊 GitHub Stats
 
-![Amr Elwetaidy's Github Stats](https://github-readme-stats-amr-elwetaidys-projects.vercel.app/api?username=Amr-elwetaidy&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Amr Elwetaidy's Github Stats](https://github-readme-stats-git-master-web-wizardss.vercel.app/api?username=Amr-elwetaidy&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-amr-elwetaidys-projects.vercel.app/api/top-langs/?username=Amr-elwetaidy&count_private=true&theme=radical&card_width=470)
+![Top Languages](https://github-readme-stats-git-master-web-wizardss.vercel.app/api/top-langs/?username=Amr-elwetaidy&count_private=true&theme=radical&card_width=470)
 
 ![GitHub Streak](https://github-readme-streak-stats-wheat-phi.vercel.app?user=Amr-elwetaidy&theme=radical&exclude_days=Fri%2CSat&card_width=470&card_height=&short_numbers=ture)
 
